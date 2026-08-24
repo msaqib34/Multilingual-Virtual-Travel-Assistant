@@ -1,0 +1,10 @@
+# Sensitive environment variables
+.env
+
+# Optional: Ignore all variations of env files
+.env.local
+.env.*
+
+# Python virtual environment (if applicable)
+.venv/
+venv/
